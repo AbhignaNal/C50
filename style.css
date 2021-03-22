@@ -1,0 +1,20 @@
+h1{
+    color: cyan;
+}
+.imgs img{
+    border-radius: 50px;
+    border: 4px solid darkblue;
+}
+.gameImgs{
+    display: flex;
+    flex-wrap: wrap;
+}
+.idk{
+    border-radius: 20px;
+    background-color: white;
+    width: 300px;
+}
+.socialMediaImgs{
+    display: flex;
+    justify-content: flex-end;
+}
